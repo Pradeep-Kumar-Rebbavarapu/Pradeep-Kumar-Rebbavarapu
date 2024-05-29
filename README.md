@@ -1,4 +1,3 @@
-![MasterHead](https://res.cloudinary.com/dqo9rn5lp/image/upload/v1703833977/Vector_logo_featuring_a_posing_fox_wearing_sungl_idoruy.jpg)
 <h1 align="center">Greetings! 👋 I'm Pradeep Kumar Rebbavarapu</h1>
 <h3 align="center">Crafting Code & Building Dreams | Full Stack Web Developer | AI/ML Enthusiast</h3>
 
